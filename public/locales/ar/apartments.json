@@ -1,0 +1,35 @@
+{
+    "apartmentBuilding": "بناء الشقة",
+    "apartmentBuildingHint": "اختر بناء الشقة",
+    "apartmentBuildingRequired": "بناء الشقة مطلوب",
+    "apartmentBuildingError": "خطأ في اختيار بناء الشقة",
+    
+    "apartmentType": "نوع الشقة",
+    "apartmentTypeHint": "حدد نوع الشقة",
+    "apartmentTypeRequired": "نوع الشقة مطلوب",
+    "apartmentTypeError": "نوع الشقة غير صالح",
+    
+    "apartmentNumber": "رقم الشقة",
+    "apartmentNumberHint": "أدخل رقم الشقة",
+    "apartmentNumberRequired": "رقم الشقة مطلوب",
+    "apartmentNumberError": "رقم الشقة غير صالح",
+    "apartmentNumberPositive": "يجب أن يكون رقم الشقة رقمًا موجبًا",
+    "apartmentNumberInteger": "يجب أن يكون رقم الشقة عددًا صحيحًا",
+    
+    "apartmentEtage": "الطابق",
+    "apartmentEtageHint": "أدخل الطابق الخاص بالشقة",
+    "apartmentEtageRequired": "الطابق مطلوب",
+    "apartmentEtageError": "رقم الطابق غير صالح",
+    "apartmentEtagePositive": "يجب أن يكون الطابق رقمًا موجبًا",
+    "apartmentEtageInteger": "يجب أن يكون الطابق عددًا صحيحًا",
+    
+    "apartmentUser": "المقيم في الشقة",
+    "apartmentUserHint": "حدد المقيم في الشقة",
+    "apartmentUserRequired": "المقيم مطلوب",
+    "apartmentUserError": "اختيار مقيم غير صالح",
+    
+    "apartmentOwner": "مالك الشقة",
+    "apartmentOwnerHint": "حدد مالك الشقة",
+    "apartmentOwnerRequired": "المالك مطلوب",
+    "apartmentOwnerError": "اختيار المالك غير صالح"
+}

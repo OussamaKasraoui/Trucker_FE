@@ -1,0 +1,17 @@
+{
+  "userIdRequired"    : "User ID is required",
+  "twoFactorCode"     : "Enter the two-factor authentication code",
+  
+  "secretRequired"    : "The secret key is required",
+  "secretLengthError" : "The secret key must be at least 32 characters",
+  "secretWrong"       : "The provided secret is incorrect.",
+  "secretExpired"     : "The secret key has expired",
+
+  "useTemporaryCode"  : "Use Temporary Code",
+  "ResendCode"        : "Resend Code",
+
+  "skipEmail"         : "<0>{{app}}</0> is currently under maintenance. Hence, emailing feature is unavailable! Please <0>{{button}}</0> button to bypass email verification.",
+  "activate"          : "Activate",
+  "read"              : "Next"
+
+}

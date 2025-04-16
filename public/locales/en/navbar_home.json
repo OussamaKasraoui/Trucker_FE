@@ -1,0 +1,22 @@
+{
+    "Lang"      : "English",
+    "app_name"  : "SyndiKIT",
+    "landpage"  : "Home",
+    "products"  : "Our Services",
+    "contactus" : "Contact us",
+    "signin"    : "Login",
+    "signup"    : "Register",
+    "HelloUser" : "Hello {{name}}",
+    "light"     : "Light",
+    "Dashboard" : "Dashboard",
+    "Logout"    : "Logout",
+    "Light"     : "Light",
+    "dark"      : "Dark",
+    "English"   : "English",
+    "Login"     : "Login",
+    "Register"  : "Register",
+    "language"  : "language",
+    "settings"  : "Settings",
+    "Settings"  : "Settiiiiiiiings",
+    "hello"     : "Hello {{name}}"
+}

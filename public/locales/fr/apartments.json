@@ -1,0 +1,35 @@
+{
+    "apartmentBuilding": "Bâtiment de l'appartement",
+    "apartmentBuildingHint": "Sélectionnez le bâtiment de l'appartement",
+    "apartmentBuildingRequired": "Le bâtiment de l'appartement est requis",
+    "apartmentBuildingError": "Erreur lors de la sélection du bâtiment de l'appartement",
+    
+    "apartmentType": "Type d'appartement",
+    "apartmentTypeHint": "Sélectionnez le type d'appartement",
+    "apartmentTypeRequired": "Le type d'appartement est requis",
+    "apartmentTypeError": "Type d'appartement invalide",
+    
+    "apartmentNumber": "Numéro de l'appartement",
+    "apartmentNumberHint": "Entrez le numéro de l'appartement",
+    "apartmentNumberRequired": "Le numéro de l'appartement est requis",
+    "apartmentNumberError": "Numéro d'appartement invalide",
+    "apartmentNumberPositive": "Le numéro de l'appartement doit être un nombre positif",
+    "apartmentNumberInteger": "Le numéro de l'appartement doit être un nombre entier",
+    
+    "apartmentEtage": "Étage",
+    "apartmentEtageHint": "Entrez l'étage de l'appartement",
+    "apartmentEtageRequired": "L'étage est requis",
+    "apartmentEtageError": "Numéro d'étage invalide",
+    "apartmentEtagePositive": "L'étage doit être un nombre positif",
+    "apartmentEtageInteger": "L'étage doit être un nombre entier",
+    
+    "apartmentUser": "Résident de l'appartement",
+    "apartmentUserHint": "Sélectionnez le résident de l'appartement",
+    "apartmentUserRequired": "Le résident est requis",
+    "apartmentUserError": "Sélection de résident invalide",
+    
+    "apartmentOwner": "Propriétaire de l'appartement",
+    "apartmentOwnerHint": "Sélectionnez le propriétaire de l'appartement",
+    "apartmentOwnerRequired": "Le propriétaire est requis",
+    "apartmentOwnerError": "Sélection de propriétaire invalide"
+}

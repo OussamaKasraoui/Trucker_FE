@@ -1,0 +1,20 @@
+{
+    "agreementServicesRequired": "Agreement Services Required",
+    "agreementStart": "Agreement Start",
+    "agreementEnd": "Agreement End",
+    "agreementBoardMembers": "Agreement Members",
+    "Syndic": "Syndic",
+    "Adjoint": "Adjoint",
+    "Tresorier": "Treasurer",
+    "Members": "Members",
+    "agreementBudget": "Agreement Budget",
+    "create": "Create",
+
+    "agreementContract": "Agreement Contract",
+    "agreementContractError": "Contract selection is required.",
+    "agreementContractor": "Agreement Contractor",
+    "agreementContractorError": "Contractor selection is required.",
+    "agreementTerm": "Agreement Term",
+    "agreementTypeError": "Agreement type is required.",
+    "intervalStart": "Interval Start"
+}

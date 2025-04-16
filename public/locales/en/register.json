@@ -1,0 +1,55 @@
+{
+    "userFirstName"                 : "Fisrt name",
+    "userFirstNameHint"             : "",
+    "userFirstNameRequired"         : "First name is required",
+    "userFirstNameError"            : "First name must contains only letters [A-Z a-z]",
+
+    "userLastName"                  : "Last name",
+    "userLastNameHint"              : "",
+    "userLastNameRequired"          : "Last name is required",
+    "userLastNameError"             : "Last name must contains only letters [A-Z a-z]",
+
+    "userEmail"                     : "Email address",
+    "userEmailHint"                 : "",
+    "userEmailRequired"             : "Email is required",
+    "userEmailError"                : "Invalid email",
+
+    "userPassword"                  : "Password",
+    "userPasswordHint"              : "",
+    "userPasswordRequired"          : "password is required",
+    "userPasswordLength"            : "The password should have a minimum of 8 characters and a maximum of 32",
+    "userPasswordError"             : "is Invalid",
+
+    "userConfirmPassword"           : "Confirm password",
+    "userConfirmPasswordHint"       : "",
+    "userConfirmPasswordRequired"   : "Password confirmation is required",
+    "userConfirmPasswordError"      : "Passwords do not match",
+
+    "userPhone"                     : "Phone number",
+    "userPhoneHint"                 : "",
+    "userPhoneRequired"             : "Phone number is required",
+    "userPhoneLength"               : "The phone number should have a minimum of 10 digits and a maximum of 13",
+    "userPhoneError"                : "Invalid phone number",
+
+    "userAddress"                   : "Address",
+    "userAddressHint"               : "",
+    "userAddressRequired"           : "Address is required",
+    "userAddressError"              : "",
+
+    "login"                         : "Login after Signup",
+    "register"                      : "Signup",
+    "haveAccount"                   : "I already Have an account",
+    
+    "userPasswordMinLength": "Password must be at least 8 characters long",
+    "userPasswordMaxLength": "Password cannot exceed 20 characters",
+    "userPhoneUsedError": "This phone number is already in use",
+    "userPhoneMinLength": "Phone number must be at least 10 digits",
+    "userPhoneMaxLength": "Phone number cannot exceed 15 digits",
+
+    
+    "errors"                        : {
+        "ERR_NETWORK"               : "Network Error",
+        "UserSave"                  : "an Error occured while saving your information",
+        "ValidationError"           : "Signup Validation Failed"
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "userIdRequired"    : "L'ID utilisateur est requis",
+  "twoFactorCode"     : "Saisissez le code de vérification",
+  
+  "secretRequired"    : "le code de vérification est obligatoire",
+  "secretLengthError" : "le code de vérification doit comporter au moins 32 caractères",
+  "secretWrong"       : "Le secret fourni est incorrect.",
+  "secretExpired"     : "le code de vérification a expiré",
+
+  "useTemporaryCode"  : "Utiliser le code de vérification temporaire",
+  "ResendCode"        : "Renvoyer le code de vérification",
+  
+  "skipEmail"         : "<0>{{app}}</0> est actuellement en maintenance. Par conséquent, la fonctionnalité d'email est indisponible ! Merdi d'<0>{{button}}</0> pour contourner la vérification par email.",
+  "activate"          : "Activer",
+  "read"              : "Suivant"
+}

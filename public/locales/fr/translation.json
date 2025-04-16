@@ -1,0 +1,14 @@
+{
+    "Lang" :                                        "Frensh",
+    "app_name": "Syndi-Kit",
+    "path": "French  - src\\screens\\public\\home.screen.js",
+    "hello_user": "Salut, {{user}}",
+    "footer": "Demonstration pour <2>Phrase blog</2> article.<5/>créé avec React, i18next, et Bulma.",
+
+    "weekly_basket_title": "Cett semaine avec Grootbasket — {{date, date(day: numeric; month: short; year: numeric)}}",
+    
+    "basket_delivered": "{{count}} panier deliverée",
+    "basket_delivered_plural": "{{count}} panier deliverées",
+
+    "estimated_weight_kg": "{{weight, number(style: unit; unit: kilogram)}}"
+}

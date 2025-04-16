@@ -1,0 +1,73 @@
+{
+    "contractContractor": "Contractor",
+    "contractContractorHint": "Specify the contractor",
+    "contractContractorRequired": "Contractor is required",
+    "contractContractorError": "Error saving contractor",
+    
+    "contractCreator": "Creator",
+    "contractCreatorHint": "Specify the creator",
+    "contractCreatorRequired": "Creator is required",
+    "contractCreatorError": "Error saving creator",
+    
+    "agreementTerm": "Agreement Type",
+    "agreementTypeHint": "Specify the agreement type",
+    "agreementTypeRequired": "Agreement type is required",
+    "agreementTypeError": "Error saving agreement type",
+    
+    "intervalStart": "Start Interval",
+    "intervalStartHint": "Specify the start interval",
+    "intervalStartRequired": "Start interval is required",
+    "intervalStartError": "Error saving start interval",
+    
+    "agreementBoardMembership": "Agreement Membership",
+    "agreementBoardMembershipHint": "Specify the agreement membership",
+    "agreementBoardMembershipRequired": "Agreement membership is required",
+    "agreementBoardMembershipError": "Error saving agreement membership",
+    
+    "agreementBudget": "Agreement Budget",
+    "agreementBudgetHint": "Specify the agreement budget",
+    "agreementBudgetRequired": "Agreement budget is required",
+    "agreementBudgetError": "Error saving agreement budget",
+    
+    "name": "Name",
+    "nameHint": "Enter the name",
+    "nameRequired": "Name is required",
+    "nameError": "Error saving name",
+    
+    "type": "Type",
+    "typeHint": "Enter the type",
+    "typeRequired": "Type is required",
+    "typeError": "Error saving type",
+    
+    "cost": "Cost",
+    "costHint": "Enter the cost",
+    "costRequired": "Cost is required",
+    "costError": "Error saving cost",
+
+
+    "agreementStart": "Agreement Start",
+    "agreementEnd": "Agreement End",
+    "agreementBoardMembers": "Agreement Members",
+    "agreementServicesAvailable": "Services Available under Agreement",
+    "Service": "Service {{index}}",
+    "Services": "Services",
+    "Service Name": "Service Name",
+    "Service Type": "Service Type",
+    "Service Cost": "Service Cost",
+
+    "contracts": "Contracts",
+    "contractStatus": "Contract Status",
+    "contractAgreements": "Contract Agreements",
+    "From": "From",
+    "To": "To",
+    "agreementStatus": "Agreement Status",
+    "agreementStatusIsActive": "Agreement Status is Active",
+    "syndic": "Syndic",
+    "adjoint": "Adjoint",
+    "addAdjoint": "Add Adjoint",
+    "tresorier": "Treasurer",
+    "addTresorier": "Add Treasurer",
+    "members": "Members",
+    "addMembers": "Add Members"
+
+}

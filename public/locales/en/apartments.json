@@ -1,0 +1,35 @@
+{
+    "apartmentBuilding": "Apartment Building",
+    "apartmentBuildingHint": "Select the apartment building",
+    "apartmentBuildingRequired": "Apartment building is required",
+    "apartmentBuildingError": "Error selecting apartment building",
+    
+    "apartmentType": "Apartment Type",
+    "apartmentTypeHint": "Select the type of apartment",
+    "apartmentTypeRequired": "Apartment type is required",
+    "apartmentTypeError": "Invalid apartment type",
+    
+    "apartmentNumber": "Apartment Number",
+    "apartmentNumberHint": "Enter the apartment number",
+    "apartmentNumberRequired": "Apartment number is required",
+    "apartmentNumberError": "Invalid apartment number",
+    "apartmentNumberPositive": "Apartment number must be a positive number",
+    "apartmentNumberInteger": "Apartment number must be an integer",
+    
+    "apartmentEtage": "Floor",
+    "apartmentEtageHint": "Enter the floor of the apartment",
+    "apartmentEtageRequired": "Floor is required",
+    "apartmentEtageError": "Invalid floor number",
+    "apartmentEtagePositive": "Floor must be a positive number",
+    "apartmentEtageInteger": "Floor must be an integer",
+    
+    "apartmentUser": "Apartment Resident",
+    "apartmentUserHint": "Select the resident of the apartment",
+    "apartmentUserRequired": "Resident is required",
+    "apartmentUserError": "Invalid resident selection",
+    
+    "apartmentOwner": "Apartment Owner",
+    "apartmentOwnerHint": "Select the owner of the apartment",
+    "apartmentOwnerRequired": "Owner is required",
+    "apartmentOwnerError": "Invalid owner selection"
+}

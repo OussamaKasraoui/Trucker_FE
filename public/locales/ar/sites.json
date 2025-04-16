@@ -1,0 +1,44 @@
+{
+    "Site": "الموقع",
+
+    "siteName": "اسم الموقع",
+    "siteNameHint": "أدخل اسم الموقع",
+    "siteNameRequired": "اسم الموقع مطلوب",
+    "siteNameError": "خطأ في حفظ اسم الموقع",
+    
+    "siteDetails": "تفاصيل الموقع",
+    "siteDetailsHint": "قدم تفاصيل حول الموقع",
+    "siteDetailsRequired": "تفاصيل الموقع مطلوبة",
+    "siteDetailsError": "خطأ في حفظ تفاصيل الموقع",
+    
+    "siteAddress": "عنوان الموقع",
+    "siteAddressHint": "أدخل عنوان الموقع",
+    "siteAddressRequired": "عنوان الموقع مطلوب",
+    "siteAddressError": "خطأ في حفظ عنوان الموقع",
+    
+    "siteCity": "مدينة الموقع",
+    "siteCityHint": "أدخل المدينة التي يقع فيها الموقع",
+    "siteCityRequired": "مدينة الموقع مطلوبة",
+    "siteCityError": "خطأ في حفظ مدينة الموقع",
+    
+    "siteType": "نوع الموقع",
+    "siteTypeHint": "حدد نوع الموقع",
+    "siteTypeRequired": "نوع الموقع مطلوب",
+    "siteTypeError": "خطأ في حفظ نوع الموقع",
+    
+    "siteContract": "عقد الموقع",
+    "siteContractHint": "قم بتحميل العقد المتعلق بالموقع",
+    "siteContractRequired": "عقد الموقع مطلوب",
+    "siteContractError": "خطأ في حفظ عقد الموقع",
+    
+    "sitePrefix": "بادئة الموقع",
+    "sitePrefixHint": "أدخل البادئة للموقع",
+    "sitePrefixRequired": "بادئة الموقع مطلوبة",
+    "sitePrefixError": "خطأ في حفظ بادئة الموقع",
+
+    "SiteSetupDoneTitle": "اكتملت إعدادات الموقع",
+    "SiteSetupDoneBody": "تم إعداد موقعك بنجاح.",
+    "SiteSetupDoneHeader": "تهانينا!",
+    "SiteSetupDoneFooter": "يمكنك الآن البدء في إدارة موقعك."
+  
+}

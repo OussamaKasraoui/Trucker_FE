@@ -1,0 +1,23 @@
+{
+    "userEmail"             : "Adresse e-mail",
+    "userEmailHint"         : "Entrez votre adresse e-mail",
+    "userEmailRequired"     : "L'e-mail est requis",
+    "userEmailError"        : "E-mail invalide",
+    "userEmailUnfound"      : "E-mail introuvable",
+
+    "userPassword"          : "Mot de passe",
+    "userPasswordHint"      : "Entrez votre mot de passe",
+    "userPasswordRequired"  : "Le mot de passe est requis",
+    "userPasswordLength"    : "Le mot de passe doit comporter au moins 8 caractères et au maximum 32",
+    "userPasswordError"     : "Mot de passe invalide",
+
+    "login"                 : "Connexion",
+    "saveLogin"             : "Se souvenir de moi",
+    "haveAccount"           : "Créer un compte",
+
+    "errors": {
+        "ERR_NETWORK"       : "Erreur de réseau",
+        "userLogin"         : "Une erreur est survenue lors de l'enregistrement de vos informations",
+        "ValidationError"   : "Échec de la validation de l'inscription"
+    }
+}

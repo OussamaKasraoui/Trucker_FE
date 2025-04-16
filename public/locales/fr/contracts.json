@@ -1,0 +1,71 @@
+{
+    "contractContractor": "Contractant",
+    "contractContractorHint": "Spécifiez le contractant",
+    "contractContractorRequired": "Le contractant est requis",
+    "contractContractorError": "Erreur lors de l'enregistrement du contractant",
+    
+    "contractCreator": "Créateur",
+    "contractCreatorHint": "Spécifiez le créateur",
+    "contractCreatorRequired": "Le créateur est requis",
+    "contractCreatorError": "Erreur lors de l'enregistrement du créateur",
+    
+    "agreementTerm": "Type d'accord",
+    "agreementTypeHint": "Spécifiez le type d'accord",
+    "agreementTypeRequired": "Le type d'accord est requis",
+    "agreementTypeError": "Erreur lors de l'enregistrement du type d'accord",
+    
+    "intervalStart": "Début de l'intervalle",
+    "intervalStartHint": "Spécifiez le début de l'intervalle",
+    "intervalStartRequired": "Le début de l'intervalle est requis",
+    "intervalStartError": "Erreur lors de l'enregistrement du début de l'intervalle",
+    
+    "agreementBoardMembership": "Adhésion à l'accord",
+    "agreementBoardMembershipHint": "Spécifiez l'adhésion à l'accord",
+    "agreementBoardMembershipRequired": "L'adhésion à l'accord est requise",
+    "agreementBoardMembershipError": "Erreur lors de l'enregistrement de l'adhésion à l'accord",
+    
+    "agreementBudget": "Budget de l'accord",
+    "agreementBudgetHint": "Spécifiez le budget de l'accord",
+    "agreementBudgetRequired": "Le budget de l'accord est requis",
+    "agreementBudgetError": "Erreur lors de l'enregistrement du budget de l'accord",
+    
+    "name": "Nom",
+    "nameHint": "Entrez le nom",
+    "nameRequired": "Le nom est requis",
+    "nameError": "Erreur lors de l'enregistrement du nom",
+    
+    "type": "Type",
+    "typeHint": "Entrez le type",
+    "typeRequired": "Le type est requis",
+    "typeError": "Erreur lors de l'enregistrement du type",
+    
+    "cost": "Coût",
+    "costHint": "Entrez le coût",
+    "costRequired": "Le coût est requis",
+    "costError": "Erreur lors de l'enregistrement du coût",
+    
+    "agreementStart": "Début de l'accord",
+    "agreementEnd": "Fin de l'accord",
+    "agreementBoardMembers": "Membres de l'accord",
+    "agreementServicesAvailable": "Services disponibles dans l'accord",
+    "Service": "Service {{index}}",
+    "Services": "Services",
+    "Service Name": "Nom du service",
+    "Service Type": "Type de service",
+    "Service Cost": "Coût du service",
+
+    "contracts": "Contrats",
+    "contractStatus": "Statut du Contrat",
+    "contractAgreements": "Accords du Contrat",
+    "From": "De",
+    "To": "À",
+    "agreementStatus": "Statut de l'Accord",
+    "agreementStatusIsActive": "Statut de l'Accord Actif",
+    "syndic": "Syndic",
+    "adjoint": "Adjoint",
+    "addAdjoint": "Ajouter Adjoint",
+    "tresorier": "Trésorier",
+    "addTresorier": "Ajouter Trésorier",
+    "members": "Membres",
+    "addMembers": "Ajouter Membres"
+}

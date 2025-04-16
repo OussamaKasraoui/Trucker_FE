@@ -1,0 +1,69 @@
+{
+    "userName": "الاسم الكامل",
+
+    "userFirstName": "الاسم الشخصي",
+    "userFirstNameHint": "أدخل اسمك الأول",
+    "userFirstNameRequired": "الاسم الأول مطلوب",
+    "userFirstNameError": "يجب أن يحتوي الاسم الأول على أحرف فقط [A-Z a-z]",
+
+    "userLastName": "الاسم العائلي",
+    "userLastNameHint": "أدخل الاسم العائلي",
+    "userLastNameRequired": "اسم العائلة مطلوب",
+    "userLastNameError": "يجب أن يحتوي الاسم العائلي على أحرف فقط [A-Z a-z]",
+
+    "userEmail": "عنوان البريد الإلكتروني",
+    "userEmailHint": "أدخل بريدك الإلكتروني",
+    "userEmailRequired": "البريد الإلكتروني مطلوب",
+    "userEmailError": "البريد الإلكتروني غير صالح",
+    "userEmailUnfound": "البريد الإلكتروني غير موجود",
+
+    "userPassword": "كلمة المرور",
+    "userPasswordHint": "أدخل كلمة مرور قوية",
+    "userPasswordRequired": "كلمة المرور مطلوبة",
+    "userPasswordLength": "يجب أن تكون كلمة المرور من 8 إلى 32 حرفًا",
+    "userPasswordError": "كلمة المرور غير صالحة",
+
+    "userConfirmPassword": "تأكيد كلمة المرور",
+    "userConfirmPasswordHint": "أعد إدخال كلمة المرور",
+    "userConfirmPasswordRequired": "تأكيد كلمة المرور مطلوب",
+    "userConfirmPasswordError": "كلمات المرور غير متطابقة",
+
+    "userPasswordMinLength": "يجب أن تكون كلمة المرور 8 أحرف على الأقل",
+    "userPasswordMaxLength": "لا يمكن أن تزيد كلمة المرور عن 20 حرفًا",
+    "userPhoneUsedError": "رقم الهاتف هذا مستخدم بالفعل",
+    "userPhoneMinLength": "يجب أن يكون رقم الهاتف 10 أرقام على الأقل",
+    "userPhoneMaxLength": "لا يمكن أن يتجاوز رقم الهاتف 15 رقمًا",
+
+    "userPhone": "رقم الهاتف",
+    "userPhoneHint": "أدخل رقم هاتفك",
+    "userPhoneRequired": "رقم الهاتف مطلوب",
+    "userPhoneLength": "يجب أن يكون رقم الهاتف بين 10 و13 رقمًا",
+    "userPhoneError": "رقم الهاتف غير صالح",
+
+    "userAddress": "العنوان",
+    "userAddressHint": "أدخل عنوانك",
+    "userAddressRequired": "العنوان مطلوب",
+    "userAddressError": "صيغة العنوان غير صالحة",
+
+    "userStatus": "الحالة",
+
+    "loginAfterSignup": "تسجيل الدخول بعد التسجيل",
+    "register": "تسجيل",
+    "haveAccount": "لدي حساب بالفعل",
+
+    "check": "المتابعة",
+    "login": "تسجيل الدخول",
+    "saveLogin": "حفظ بيانات التسجيل",
+    "makeAccount": "إنشاء حساب",
+
+    "errors": {
+        "ERR_NETWORK": "خطأ في الشبكة",
+        "UserSave": "حدث خطأ أثناء حفظ بياناتك",
+        "ValidationError": "فشل التحقق أثناء التسجيل"
+    },
+
+    "UserProfileCreatedHeader": "تم إنشاء الملف الشخصي بنجاح",
+    "UserProfileCreatedBody": "تم إنشاء ملفك الشخصي. يمكنك الآن الوصول إلى جميع الميزات.",
+    "UserProfileCreatedTitle": "تم إنشاء الملف الشخصي",
+    "UserProfileCreatedFooter": "شكرًا لانضمامك إلينا!"
+}

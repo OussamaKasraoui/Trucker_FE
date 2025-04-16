@@ -1,0 +1,22 @@
+{
+    "Lang"      : "Arabic",
+    "app_name"  : "سانديك كيت",
+    "landpage"  : "الرئيسية",
+    "products"  : "الخدمات",
+    "contactus" : "اتصل بنا",
+    "signin"    : "تسجيل الدخول",
+    "signup"    : "انشاء حساب",
+    "HelloUser" : "مرحبا {{name}}",
+    "light"     : "الوضع النهاري",
+    "dark"      : "داكن",
+    "Dashboard" : "لوحة التحكم",
+    "Logout"    : "تسجيل الخروج",
+    "Light"     : "الوضع النهاري",
+    "Dark"      : "داكن",
+    "English"   : "العربية",
+    "Login"     : "تسجيل الدخول",
+    "Register"  : "انشاء حساب",
+    "settings"  : "الإعدادات",
+    "Settings"  : "الإعداداااااااااات",
+    "language"  : "لغة"
+}

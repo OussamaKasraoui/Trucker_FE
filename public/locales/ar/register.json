@@ -1,0 +1,54 @@
+{
+    "userFirstName"                 : "الاسم الشخصي",
+    "userFirstNameHint"             : "",
+    "userFirstNameRequired"         : "الاسم الشخصي ضروري",
+    "userFirstNameError"            : "",
+
+    "userLastName"                  : "الاسم العائلي",
+    "userLastNameHint"              : "",
+    "userLastNameRequired"          : "الاسم العائلي ضروري",
+    "userLastNameError"             : "",
+
+    "userEmail"                     : "البريد الالكتروني",
+    "userEmailHint"                 : "",
+    "userEmailRequired"             : "البريد الالكتروني ضروري",
+    "userEmailError"                : "",
+
+    "userPassword"                  : "كلمة المرور",
+    "userPasswordHint"              : "",
+    "userPasswordRequired"          : "كلمة المرور ضرورية",
+    "userPasswordLength"            : "يجب أن تحتوي كلمة المرور على 8 أحرف كحد أدنى و 32 حرفًا كحد أقصى",
+    "userPasswordError"             : "",
+
+    "userConfirmPassword"           : "تأكيد كلمة المرور",
+    "userConfirmPasswordHint"       : "",
+    "userConfirmPasswordRequired"   : "تأكيد كلمة المرور ضروري",
+    "userConfirmPasswordError"      : "كلمات المرور غير متطابقة",
+
+    "userPhone"                     : "رقم الهاتف",
+    "userPhoneHint"                 : "",
+    "userPhoneRequired"             : "رقم الهاتف ضروري",
+    "userPhoneLength"               : "يجب أن يحتوي رقم الهاتف على 10 ارقام كحد أدنى و 13 رقما كحد أقصى",
+    "userPhoneError"                : "",
+
+    "userAddress"                   : "العنوان",
+    "userAddressHint"               : "",
+    "userAddressRequired"           : "العنوان ضروري",
+    "userAddressError"              : "",
+
+    "login"                         : "تسجيل الدخول بعد انشاء الحساب",
+    "register"                      : "انشاء الحساب",
+    "haveAccount"                   : "لدي حساب بالفعل",
+
+    "userPasswordMinLength": "يجب أن يتكون كلمة المرور من 8 أحرف على الأقل",
+    "userPasswordMaxLength": "كلمة المرور لا يمكن أن تتجاوز 20 حرفًا",
+    "userPhoneUsedError": "رقم الهاتف هذا قيد الاستخدام بالفعل",
+    "userPhoneMinLength": "يجب أن يتكون رقم الهاتف من 10 أرقام على الأقل",
+    "userPhoneMaxLength": "لا يمكن أن يتجاوز رقم الهاتف 15 رقمًا",
+
+    "errors"                        : {
+        "ERR_NETWORK"               : "خطأ في الشبكة",
+        "UserSave"                  : "حدث خطأ اثناء حفظ البيانات الخاصة بكم",
+        "ValidationError"           : "فشل التحقق من معلومات انشاء الحساب"
+    }
+}

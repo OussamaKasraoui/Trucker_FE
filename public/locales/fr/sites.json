@@ -1,0 +1,44 @@
+{
+    "Site": "Site",
+
+    "siteName": "Nom du Site",
+    "siteNameHint": "Entrez le nom du site",
+    "siteNameRequired": "Le nom du site est requis",
+    "siteNameError": "Erreur lors de l'enregistrement du nom du site",
+    
+    "siteDetails": "Détails du Site",
+    "siteDetailsHint": "Fournissez des détails sur le site",
+    "siteDetailsRequired": "Les détails du site sont requis",
+    "siteDetailsError": "Erreur lors de l'enregistrement des détails du site",
+    
+    "siteAddress": "Adresse du Site",
+    "siteAddressHint": "Entrez l'adresse du site",
+    "siteAddressRequired": "L'adresse du site est requise",
+    "siteAddressError": "Erreur lors de l'enregistrement de l'adresse du site",
+    
+    "siteCity": "Ville du Site",
+    "siteCityHint": "Entrez la ville où se trouve le site",
+    "siteCityRequired": "La ville du site est requise",
+    "siteCityError": "Erreur lors de l'enregistrement de la ville du site",
+    
+    "siteType": "Type de Site",
+    "siteTypeHint": "Sélectionnez le type de site",
+    "siteTypeRequired": "Le type de site est requis",
+    "siteTypeError": "Erreur lors de l'enregistrement du type de site",
+    
+    "siteContract": "Contrat du Site",
+    "siteContractHint": "Téléchargez le contrat relatif au site",
+    "siteContractRequired": "Le contrat du site est requis",
+    "siteContractError": "Erreur lors de l'enregistrement du contrat du site",
+    
+    "sitePrefix": "Préfixe du Site",
+    "sitePrefixHint": "Entrez le préfixe pour le site",
+    "sitePrefixRequired": "Le préfixe du site est requis",
+    "sitePrefixError": "Erreur lors de l'enregistrement du préfixe du site",
+
+    "SiteSetupDoneTitle": "Configuration du site terminée",
+    "SiteSetupDoneBody": "Votre site a été configuré avec succès.",
+    "SiteSetupDoneHeader": "Félicitations!",
+    "SiteSetupDoneFooter": "Vous pouvez maintenant gérer votre site."
+  
+}

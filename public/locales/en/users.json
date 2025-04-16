@@ -1,0 +1,69 @@
+{
+    "userName": "Full name",
+
+    "userFirstName": "First name",
+    "userFirstNameHint": "Enter your first name",
+    "userFirstNameRequired": "First name is required",
+    "userFirstNameError": "First name must contain only letters [A-Z a-z]",
+
+    "userLastName": "Last name",
+    "userLastNameHint": "Enter your last name",
+    "userLastNameRequired": "Last name is required",
+    "userLastNameError": "Last name must contain only letters [A-Z a-z]",
+
+    "userEmail": "Email address",
+    "userEmailHint": "Enter your email address",
+    "userEmailRequired": "Email is required",
+    "userEmailError": "Invalid email",
+    "userEmailUnfound": "Email not found",
+
+    "userPassword": "Password",
+    "userPasswordHint": "Enter a strong password",
+    "userPasswordRequired": "Password is required",
+    "userPasswordLength": "The password should have a minimum of 8 characters and a maximum of 32",
+    "userPasswordError": "Password is invalid",
+
+    "userConfirmPassword": "Confirm password",
+    "userConfirmPasswordHint": "Re-enter your password",
+    "userConfirmPasswordRequired": "Password confirmation is required",
+    "userConfirmPasswordError": "Passwords do not match",
+
+    "userPasswordMinLength": "Password must be at least 8 characters long",
+    "userPasswordMaxLength": "Password cannot exceed 20 characters",
+    "userPhoneUsedError": "This phone number is already in use",
+    "userPhoneMinLength": "Phone number must be at least 10 digits",
+    "userPhoneMaxLength": "Phone number cannot exceed 15 digits",
+
+    "userPhone": "Phone number",
+    "userPhoneHint": "Enter your phone number",
+    "userPhoneRequired": "Phone number is required",
+    "userPhoneLength": "The phone number should have a minimum of 10 digits and a maximum of 13",
+    "userPhoneError": "Invalid phone number",
+
+    "userAddress": "Address",
+    "userAddressHint": "Enter your address",
+    "userAddressRequired": "Address is required",
+    "userAddressError": "Invalid address format",
+
+    "userStatus": "Status",
+
+    "loginAfterSignup": "Login after Signup",
+    "register": "Signup",
+    "haveAccount": "I already have an account",
+
+    "check": "Proceed",
+    "login": "Login",
+    "saveLogin": "Remember me",
+    "makeAccount": "Create an account",
+
+    "errors": {
+        "ERR_NETWORK": "Network Error",
+        "UserSave": "An error occurred while saving your information",
+        "ValidationError": "Signup validation failed"
+    },
+
+    "UserProfileCreatedHeader": "Profile Created Successfully",
+    "UserProfileCreatedBody": "Your user profile has been created. You can now access all features.",
+    "UserProfileCreatedTitle": "User Profile Created",
+    "UserProfileCreatedFooter": "Thank you for joining us!"
+}

@@ -1,0 +1,72 @@
+{
+    "contractContractor": "المقاول",
+    "contractContractorHint": "حدد المقاول",
+    "contractContractorRequired": "المقاول مطلوب",
+    "contractContractorError": "خطأ في حفظ المقاول",
+    
+    "contractCreator": "المنشئ",
+    "contractCreatorHint": "حدد المنشئ",
+    "contractCreatorRequired": "المنشئ مطلوب",
+    "contractCreatorError": "خطأ في حفظ المنشئ",
+    
+    "agreementTerm": "نوع الاتفاقية",
+    "agreementTypeHint": "حدد نوع الاتفاقية",
+    "agreementTypeRequired": "نوع الاتفاقية مطلوب",
+    "agreementTypeError": "خطأ في حفظ نوع الاتفاقية",
+    
+    "intervalStart": "بداية الفترة",
+    "intervalStartHint": "حدد بداية الفترة",
+    "intervalStartRequired": "بداية الفترة مطلوبة",
+    "intervalStartError": "خطأ في حفظ بداية الفترة",
+    
+    "agreementBoardMembership": "عضوية الاتفاقية",
+    "agreementBoardMembershipHint": "حدد عضوية الاتفاقية",
+    "agreementBoardMembershipRequired": "عضوية الاتفاقية مطلوبة",
+    "agreementBoardMembershipError": "خطأ في حفظ عضوية الاتفاقية",
+    
+    "agreementBudget": "ميزانية الاتفاقية",
+    "agreementBudgetHint": "حدد ميزانية الاتفاقية",
+    "agreementBudgetRequired": "ميزانية الاتفاقية مطلوبة",
+    "agreementBudgetError": "خطأ في حفظ ميزانية الاتفاقية",
+    
+    "name": "الاسم",
+    "nameHint": "أدخل الاسم",
+    "nameRequired": "الاسم مطلوب",
+    "nameError": "خطأ في حفظ الاسم",
+    
+    "type": "النوع",
+    "typeHint": "أدخل النوع",
+    "typeRequired": "النوع مطلوب",
+    "typeError": "خطأ في حفظ النوع",
+    
+    "cost": "التكلفة",
+    "costHint": "أدخل التكلفة",
+    "costRequired": "التكلفة مطلوبة",
+    "costError": "خطأ في حفظ التكلفة",
+
+    "agreementStart": "بداية الاتفاق",
+    "agreementEnd": "نهاية الاتفاق",
+    "agreementBoardMembers": "أعضاء الاتفاق",
+    "agreementServicesAvailable": "الخدمات المتاحة في الاتفاق",
+    "Service": "خدمة {{index}}",
+    "Services": "الخدمات",
+    "Service Name": "اسم الخدمة",
+    "Service Type": "نوع الخدمة",
+    "Service Cost": "تكلفة الخدمة",
+
+    "contracts": "العقود",
+    "contractStatus": "حالة العقد",
+    "contractAgreements": "اتفاقيات العقد",
+    "From": "من",
+    "To": "إلى",
+    "agreementStatus": "حالة الاتفاق",
+    "agreementStatusIsActive": "حالة الاتفاق نشطة",
+    "syndic": "الوكيل",
+    "adjoint": "المساعد",
+    "addAdjoint": "إضافة مساعد",
+    "tresorier": "أمين الصندوق",
+    "addTresorier": "إضافة أمين الصندوق",
+    "members": "الأعضاء",
+    "addMembers": "إضافة أعضاء"
+
+}

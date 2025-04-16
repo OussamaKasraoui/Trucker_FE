@@ -1,0 +1,69 @@
+{
+    "userName": "Nom complet",
+
+    "userFirstName": "Prénom",
+    "userFirstNameHint": "Entrez votre prénom",
+    "userFirstNameRequired": "Le prénom est requis",
+    "userFirstNameError": "Le prénom doit contenir uniquement des lettres [A-Z a-z]",
+
+    "userLastName": "Nom de famille",
+    "userLastNameHint": "Entrez votre nom de famille",
+    "userLastNameRequired": "Le nom de famille est requis",
+    "userLastNameError": "Le nom de famille doit contenir uniquement des lettres [A-Z a-z]",
+
+    "userEmail": "Adresse e-mail",
+    "userEmailHint": "Entrez votre adresse e-mail",
+    "userEmailRequired": "L'adresse e-mail est requise",
+    "userEmailError": "Adresse e-mail invalide",
+    "userEmailUnfound": "Adresse e-mail introuvable",
+
+    "userPassword": "Mot de passe",
+    "userPasswordHint": "Entrez un mot de passe sécurisé",
+    "userPasswordRequired": "Le mot de passe est requis",
+    "userPasswordLength": "Le mot de passe doit contenir entre 8 et 32 caractères",
+    "userPasswordError": "Mot de passe invalide",
+
+    "userConfirmPassword": "Confirmer le mot de passe",
+    "userConfirmPasswordHint": "Re-saisissez votre mot de passe",
+    "userConfirmPasswordRequired": "La confirmation du mot de passe est requise",
+    "userConfirmPasswordError": "Les mots de passe ne correspondent pas",
+
+    "userPasswordMinLength": "Le mot de passe doit contenir au moins 8 caractères",
+    "userPasswordMaxLength": "Le mot de passe ne peut pas dépasser 20 caractères",
+    "userPhoneUsedError": "Ce numéro de téléphone est déjà utilisé",
+    "userPhoneMinLength": "Le numéro de téléphone doit contenir au moins 10 chiffres",
+    "userPhoneMaxLength": "Le numéro de téléphone ne peut pas dépasser 15 chiffres",
+
+    "userPhone": "Numéro de téléphone",
+    "userPhoneHint": "Entrez votre numéro de téléphone",
+    "userPhoneRequired": "Le numéro de téléphone est requis",
+    "userPhoneLength": "Le numéro de téléphone doit contenir entre 10 et 13 chiffres",
+    "userPhoneError": "Numéro de téléphone invalide",
+
+    "userAddress": "Adresse",
+    "userAddressHint": "Entrez votre adresse",
+    "userAddressRequired": "L'adresse est requise",
+    "userAddressError": "Format de l'adresse invalide",
+
+    "userStatus": "Statut",
+
+    "loginAfterSignup": "Connexion après inscription",
+    "register": "S'inscrire",
+    "haveAccount": "J'ai déjà un compte",
+
+    "check": "Continuer",
+    "login": "Connexion",
+    "saveLogin": "Se souvenir de moi",
+    "makeAccount": "Créer un compte",
+
+    "errors": {
+        "ERR_NETWORK": "Erreur réseau",
+        "UserSave": "Une erreur s'est produite lors de l'enregistrement de vos informations",
+        "ValidationError": "Échec de la validation de l'inscription"
+    },
+
+    "UserProfileCreatedHeader": "Profil créé avec succès",
+    "UserProfileCreatedBody": "Votre profil a été créé. Vous pouvez désormais accéder à toutes les fonctionnalités.",
+    "UserProfileCreatedTitle": "Profil créé",
+    "UserProfileCreatedFooter": "Merci de nous avoir rejoints !"
+}

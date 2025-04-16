@@ -1,0 +1,35 @@
+{
+    "Buildings": "Buildings",
+    
+    "buildingSite": "Building Site",
+    "buildingSiteHint": "Specify the building site",
+    "buildingSiteRequired": "Building site is required",
+    "buildingSiteError": "Error saving building site",
+    
+    "buildingName": "Building Name",
+    "buildingNameHint": "Enter the building name",
+    "buildingNameRequired": "Building name is required",
+    "buildingNameError": "Error saving building name",
+    
+    "buildingAddress": "Building Address",
+    "buildingAddressHint": "Enter the building address",
+    "buildingAddressRequired": "Building address is required",
+    "buildingAddressError": "Error saving building address",
+    
+    "buildingPrefix": "Building Prefix",
+    "buildingPrefixHint": "Enter the prefix for the building",
+    "buildingPrefixRequired": "Building prefix is required",
+    "buildingPrefixError": "Error saving building prefix",
+    
+    "buildingFloors": "Number of Floors",
+    "buildingFloorsHint": "Specify the number of floors in the building",
+    "buildingFloorsRequired": "Number of floors is required",
+    "buildingFloorsPositive": "Number of floors must be positive",
+    "buildingFloorsInteger": "Number of floors must be an integer",
+    
+    "buildingAptPerFloor": "Apartments per Floor",
+    "buildingAptPerFloorHint": "Specify the number of apartments per floor",
+    "buildingAptPerFloorRequired": "Apartments per floor is required",
+    "buildingAptPerFloorPositive": "Apartments per floor must be positive",
+    "buildingAptPerFloorInteger": "Apartments per floor must be an integer"
+}

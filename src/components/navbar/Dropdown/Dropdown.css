@@ -1,0 +1,44 @@
+
+.links > div:hover .dropdown {
+    top: 40px;
+    opacity: 1;
+    pointer-events: initial
+  }
+  .dropdown {
+    position: absolute;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    box-shadow: var(--light-shadow);
+    gap: 20px;
+    padding: 20px 20px;
+    border-radius: 10px;
+    left: 0;
+    opacity: 0;
+    transition: all 0.3s;
+    top: 80px;
+    pointer-events: none;
+    left: -60px
+  }
+  .dropdown a {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--gray-text);
+  }
+  
+  .dropdown a  i {
+    left: -10px;
+    color: var(--gray-text);
+  
+  }
+  
+  .dropdown a:hover {
+    color: var(--theme-color);
+  }
+  .dropdown a:hover > i {
+    color: var(--theme-color);
+    left: 0;
+  }
+  

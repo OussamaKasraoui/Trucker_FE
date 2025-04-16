@@ -1,0 +1,35 @@
+{
+    "Buildings": "Bâtiments",
+    
+    "buildingSite": "Emplacement du bâtiment",
+    "buildingSiteHint": "Spécifiez l'emplacement du bâtiment",
+    "buildingSiteRequired": "L'emplacement du bâtiment est requis",
+    "buildingSiteError": "Erreur lors de l'enregistrement de l'emplacement du bâtiment",
+    
+    "buildingName": "Nom du bâtiment",
+    "buildingNameHint": "Entrez le nom du bâtiment",
+    "buildingNameRequired": "Le nom du bâtiment est requis",
+    "buildingNameError": "Erreur lors de l'enregistrement du nom du bâtiment",
+    
+    "buildingAddress": "Adresse du bâtiment",
+    "buildingAddressHint": "Entrez l'adresse du bâtiment",
+    "buildingAddressRequired": "L'adresse du bâtiment est requise",
+    "buildingAddressError": "Erreur lors de l'enregistrement de l'adresse du bâtiment",
+    
+    "buildingPrefix": "Préfixe du bâtiment",
+    "buildingPrefixHint": "Entrez le préfixe pour le bâtiment",
+    "buildingPrefixRequired": "Le préfixe du bâtiment est requis",
+    "buildingPrefixError": "Erreur lors de l'enregistrement du préfixe du bâtiment",
+    
+    "buildingFloors": "Nombre d'étages",
+    "buildingFloorsHint": "Spécifiez le nombre d'étages dans le bâtiment",
+    "buildingFloorsRequired": "Le nombre d'étages est requis",
+    "buildingFloorsPositive": "Le nombre d'étages doit être positif",
+    "buildingFloorsInteger": "Le nombre d'étages doit être un entier",
+    
+    "buildingAptPerFloor": "Appartements par étage",
+    "buildingAptPerFloorHint": "Spécifiez le nombre d'appartements par étage",
+    "buildingAptPerFloorRequired": "Le nombre d'appartements par étage est requis",
+    "buildingAptPerFloorPositive": "Le nombre d'appartements par étage doit être positif",
+    "buildingAptPerFloorInteger": "Le nombre d'appartements par étage doit être un entier"
+}

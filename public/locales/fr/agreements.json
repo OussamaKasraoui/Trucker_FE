@@ -1,0 +1,22 @@
+{
+
+    "agreementServicesRequired": "Services requis pour l'accord",
+    "agreementStart": "Début de l'accord",
+    "agreementEnd": "Fin de l'accord",
+    "agreementBoardMembers": "Membres de l'accord",
+    "Syndic": "Syndic",
+    "Adjoint": "Adjoint",
+    "Tresorier": "Trésorier",
+    "Members": "Membres",
+    "agreementBudget": "Budget de l'accord",
+    "create": "Créer",
+
+
+    "agreementContract": "Contrat de l'accord",
+    "agreementContractError": "La sélection du contrat est requise.",
+    "agreementContractor": "Contractant de l'accord",
+    "agreementContractorError": "La sélection du contractant est requise.",
+    "agreementTerm": "Durée de l'accord",
+    "agreementTypeError": "Le type d'accord est requis.",
+    "intervalStart": "Début de l'intervalle"
+}

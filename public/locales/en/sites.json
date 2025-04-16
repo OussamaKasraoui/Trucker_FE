@@ -1,0 +1,43 @@
+{
+    "Site": "Site",
+    
+    "siteName": "Site Name",
+    "siteNameHint": "Enter the name of the site",
+    "siteNameRequired": "Site name is required",
+    "siteNameError": "Error saving site name",
+    
+    "siteDetails": "Site Details",
+    "siteDetailsHint": "Provide details about the site",
+    "siteDetailsRequired": "Site details are required",
+    "siteDetailsError": "Error saving site details",
+    
+    "siteAddress": "Site Address",
+    "siteAddressHint": "Enter the address of the site",
+    "siteAddressRequired": "Site address is required",
+    "siteAddressError": "Error saving site address",
+    
+    "siteCity": "Site City",
+    "siteCityHint": "Enter the city where the site is located",
+    "siteCityRequired": "Site city is required",
+    "siteCityError": "Error saving site city",
+    
+    "siteType": "Site Type",
+    "siteTypeHint": "Select the type of the site",
+    "siteTypeRequired": "Site type is required",
+    "siteTypeError": "Error saving site type",
+    
+    "siteContract": "Site Contract",
+    "siteContractHint": "Upload the contract related to the site",
+    "siteContractRequired": "Site contract is required",
+    "siteContractError": "Error saving site contract",
+    
+    "sitePrefix": "Site Prefix",
+    "sitePrefixHint": "Enter the prefix for the site",
+    "sitePrefixRequired": "Site prefix is required",
+    "sitePrefixError": "Error saving site prefix",
+
+    "SiteSetupDoneTitle": "Site Setup Completed",
+    "SiteSetupDoneBody": "Your site has been successfully configured.",
+    "SiteSetupDoneHeader": "Congratulations!",
+    "SiteSetupDoneFooter": "You can now proceed to manage your site."
+}

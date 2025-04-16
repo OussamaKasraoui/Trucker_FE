@@ -1,0 +1,23 @@
+{
+    "userEmail"                 : "عنوان البريد الإلكتروني",
+    "userEmailHint"             : "أدخل عنوان بريدك الإلكتروني",
+    "userEmailRequired"         : "البريد الإلكتروني مطلوب",
+    "userEmailError"            : "البريد الإلكتروني غير صالح",
+    "userEmailUnfound"          : "البريد الإلكتروني غير موجود",
+
+    "userPassword"              : "كلمة السر",
+    "userPasswordHint"          : "أدخل كلمة المرور الخاصة بك",
+    "userPasswordRequired"      : "كلمة المرور مطلوبة",
+    "userPasswordLength"        : "يجب أن تحتوي كلمة المرور على 8 أحرف على الأقل و 32 حرفًا كحد أقصى",
+    "userPasswordError"         : "كلمة المرور غير صالحة",
+
+    "login"                     : "تسجيل الدخول",
+    "saveLogin"                 : "تذكرني",
+    "haveAccount"               : "إنشاء حساب",
+
+    "errors": {
+        "ERR_NETWORK"           : "خطأ في الشبكة",
+        "userLogin"             : "حدث خطأ أثناء حفظ معلوماتك",
+        "ValidationError"       : "فشل التحقق من التسجيل"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "agreementServicesRequired": "الخدمات المطلوبة للاتفاق",
+    "agreementStart": "بداية الاتفاق",
+    "agreementEnd": "نهاية الاتفاق",
+    "agreementBoardMembers": "أعضاء الاتفاق",
+    "Syndic": "الوكيل",
+    "Adjoint": "المساعد",
+    "Tresorier": "أمين الصندوق",
+    "Members": "الأعضاء",
+    "agreementBudget": "ميزانية الاتفاق",
+    "create": "إنشاء",
+
+    "agreementContract": "عقد الاتفاق",
+    "agreementContractError": "يجب اختيار العقد.",
+    "agreementContractor": "مقاول الاتفاق",
+    "agreementContractorError": "يجب اختيار المقاول.",
+    "agreementTerm": "مدة الاتفاق",
+    "agreementTypeError": "يجب تحديد نوع الاتفاق.",
+    "intervalStart": "بداية الفترة"
+}

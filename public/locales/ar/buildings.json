@@ -1,0 +1,35 @@
+{
+    "Buildings": "المباني",
+    
+    "buildingSite": "موقع المبنى",
+    "buildingSiteHint": "قم بتحديد موقع المبنى",
+    "buildingSiteRequired": "موقع المبنى مطلوب",
+    "buildingSiteError": "خطأ في تحديد موقع المبنى",
+    
+    "buildingName": "اسم المبنى",
+    "buildingNameHint": "أدخل اسم المبنى",
+    "buildingNameRequired": "اسم المبنى مطلوب",
+    "buildingNameError": "خطأ في حفظ اسم المبنى",
+    
+    "buildingAddress": "عنوان المبنى",
+    "buildingAddressHint": "أدخل عنوان المبنى",
+    "buildingAddressRequired": "عنوان المبنى مطلوب",
+    "buildingAddressError": "خطأ في حفظ عنوان المبنى",
+    
+    "buildingPrefix": "بادئة المبنى",
+    "buildingPrefixHint": "أدخل البادئة للمبنى",
+    "buildingPrefixRequired": "بادئة المبنى مطلوبة",
+    "buildingPrefixError": "خطأ في حفظ بادئة المبنى",
+    
+    "buildingFloors": "عدد الطوابق",
+    "buildingFloorsHint": "حدد عدد الطوابق في المبنى",
+    "buildingFloorsRequired": "عدد الطوابق مطلوب",
+    "buildingFloorsPositive": "يجب أن يكون عدد الطوابق موجبًا",
+    "buildingFloorsInteger": "يجب أن يكون عدد الطوابق عددًا صحيحًا",
+    
+    "buildingAptPerFloor": "عدد الشقق في كل طابق",
+    "buildingAptPerFloorHint": "حدد عدد الشقق في كل طابق",
+    "buildingAptPerFloorRequired": "عدد الشقق في كل طابق مطلوب",
+    "buildingAptPerFloorPositive": "يجب أن يكون عدد الشقق في كل طابق موجبًا",
+    "buildingAptPerFloorInteger": "يجب أن يكون عدد الشقق في كل طابق عددًا صحيحًا"
+}

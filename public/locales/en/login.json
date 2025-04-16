@@ -1,0 +1,23 @@
+{
+    "userEmail"             : "Email address",
+    "userEmailHint"         : "Enter your email address",
+    "userEmailRequired"     : "Email is required",
+    "userEmailError"        : "Invalid email",
+    "userEmailUnfound"      : "Email not found",
+
+    "userPassword"          : "Password",
+    "userPasswordHint"      : "Enter your password",
+    "userPasswordRequired"  : "Password is required",
+    "userPasswordLength"    : "The password should have a minimum of 8 characters and a maximum of 32",
+    "userPasswordError"     : "Invalid password",
+
+    "login"                 : "Login",
+    "saveLogin"             : "Remember me",
+    "haveAccount"           : "Create an account",
+
+    "errors": {
+        "ERR_NETWORK"       : "Network Error",
+        "userLogin"         : "An error occurred while saving your information",
+        "ValidationError"   : "Signup validation failed"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Lang"      : "Français",
+    "app_name"  : "SyndiKIT",
+    "landpage"  : "Acceuil",
+    "products"  : "Nos Services",
+    "contactus" : "Contactez nous",
+    "signin"    : "Se connecter",
+    "signup"    : "S'inscrire",
+    "HelloUser" : "Bonjour {{name}}",
+    "light"     : "Clair",
+    "dark"      : "Sombre",
+    "Dashboard" : "Tableau de bord",
+    "Logout"    : "se déconnecter",
+    "Light"     : "Clair",
+    "Dark"      : "Sombre",
+    "English"   : "Français",
+    "Login"     : "Se connecter",
+    "Register"  : "S'inscrire",
+    "language"  : "langue",
+    "settings"  : "Paramètres",
+    "Settings"  : "Paramètresssss",
+    "hello"     : "Bonjour {{name}}"
+}
