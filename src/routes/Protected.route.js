@@ -5,25 +5,25 @@ const getDefaultPath = (packName, userStatus) => {
 
   switch (packName) {
 
-    case 'Syndicate': 
-        let root = '/syndicate/dashboard';
+    case 'Administrator': 
+        let root = '/administrator/dashboard';
 
         if(userStatus === "Pending"){
             root = '/registering'
         }
-        else if(userStatus === "OnHold"){
-            root = '/syndicate/welcome'
-        }
+        // else if(userStatus === "OnHold"){
+        //     root = '/syndicate/welcome'
+        // }
 
         return root;
     break;
 
-    case 'Entreprise': 
-        return '/entreprise/dashboard';
+    case 'contractor': 
+        return '/contractor/dashboard';
     break;
     
-    case 'Admin': 
-        return '/admin/dashboard';
+    case 'customer': 
+        return '/customer/dashboard';
     break;
 
     default: 

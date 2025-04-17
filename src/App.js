@@ -92,28 +92,17 @@ const App = () => {
                   </Route>
 
                   {/* Auth Routes for regular users  */}
-                  <Route path="/dashboard"    element={<ProtectedRoutes allowedRoles={['Syndicate']}> <LayoutUser /> </ProtectedRoutes>}>
+                  <Route path="/administrator"    element={<ProtectedRoutes allowedRoles={['Administrator']}> <LayoutUser /> </ProtectedRoutes>}>
                     <Route index              element={<Dashboard />} />
                     <Route path="*"           element={<NotFound />} />
                     <Route path="test"        element={<Test />} />
                     <Route path="dashboard"   element={<Dashboard />} />
-                    <Route path="welcome"     element={<ContextsProvider><Welcome /></ContextsProvider>} /> {/* TODO: remove ContextsProvider Wrapper */}
-
-                    <Route path="sites"       element={<Scene scene={'sites'} title={'Sites Management'} />}/>
-                    <Route path="buildings"   element={<Scene scene={'buildings'} title={'Buildings Management'} />}/>
-                    <Route path="apartments"  element={<Scene scene={'apartments'} title={'Apartments Management'} />}/>
-                    <Route path="commonareas" element={<Scene scene={'commonareas'} title={'Commonareas Management'} />}/>
 
                     <Route path="contracts"   element={<Scene scene={'contracts'} title={'Contracts Management'} />}/>
                     <Route path="agreements"  element={<Scene scene={'agreements'} title={'Agreements Management'} />}/>
                     <Route path="services"    element={<Scene scene={'services'} title={'Services Management'} />}/>
 
-                    <Route path="owners"      element={<Scene scene={'owners'} title={'Owners Management'} />}/>
-                    <Route path="members"     element={<Scene scene={'members'} title={'Members Management'} />}/>
                     <Route path="staff"       element={<Scene scene={'staff'} title={'Staff Management'} />}/>
-
-                    <Route path="invoices"    element={<Scene scene={'invoices'} title={'Invoices Management'} />}/>
-                    <Route path="payments"    element={<Scene scene={'payments'} title={'Payments Management'} />}/>
                     <Route path="reports"     element={<Scene scene={'reports'} title={'Reports Management'} />}/>
                   </Route>
 

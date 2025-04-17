@@ -157,8 +157,8 @@ const LayoutUser = () => {
       }      
       
       if (!loaded && !query.isFetched) {
-        fetchData(controller); 
-        return;
+        // fetchData(controller); 
+        // return;
       }
 
     } catch (error) {
