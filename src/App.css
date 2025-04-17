@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
   font-family: 'BitterExtraLight';
   src: local('BitterExtraLight'),
         url('./fonts/Bitter/static/BitterLight.ttf') format('truetype'),
@@ -32,11 +32,11 @@
   font-family: 'LibreFranklinLight';
   src: local('LibreFranklinLight'),
        url('./fonts/LibreFranklin/static/LibreFranklinThin.ttf') format('truetype'),
-}
+} */
 
 /* -------------------------ProzaLibre--------------------------- */
 
-@font-face {
+/* @font-face {
   font-family: 'ProzaLibreRegular';
   src: local('ProzaLibreRegular'),
        url('./fonts/ProzaLibre/static/ProzaLibreRegular.ttf') format('truetype'),
@@ -94,11 +94,11 @@
   font-family: 'ProzaLibreExtraBoldItalic';
   src: local('ProzaLibreExtraBoldItalic'),
        url('./fonts/ProzaLibre/static/ProzaLibreExtraBoldItalic.ttf') format('truetype'),
-}
+} */
 
 /* -------------------------Tajawal--------------------------- */
 
-@font-face {
+/* @font-face {
   font-family: 'TajawalBlack';
   src: local('TajawalBlack'),
        url('./fonts/Tajawal/Tajawal-Black.ttf') format('truetype'),
@@ -138,11 +138,11 @@
   font-family: 'TajawalRegular';
   src: local('TajawalRegular'),
        url('./fonts/Tajawal/Tajawal-Regular.ttf') format('truetype'),
-}
+} */
 
 /* -------------------------ScheherazadeNew--------------------------- */
 
-@font-face {
+/* @font-face {
   font-family: 'ScheherazadeNewRegular';
   src: local('ScheherazadeNewRegular'),
        url('./fonts/Scheherazade/ScheherazadeNew-Regular.ttf') format('truetype'),
@@ -164,7 +164,7 @@
   font-family: 'ScheherazadeNewSemiBold';
   src: local('ScheherazadeNewSemiBold'),
        url('./fonts/Scheherazade/ScheherazadeNew-SemiBold.ttf') format('truetype'),
-}
+} */
 
 /* ---------------------------------------------------- */
 /* .App {

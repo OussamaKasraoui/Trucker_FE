@@ -83,12 +83,12 @@ export default function Pricing(props) {
   };
 
   const backgroundColor = {
-    Syndicate: "linear-gradient(180deg, #C5C5C5, #ECECEC)",
-    SyndicateButton: "linear-gradient(180deg, #1B48BB, #4D77FF)",
+    Administrator: "linear-gradient(180deg, #C5C5C5, #ECECEC)",
+    AdministratorButton: "linear-gradient(180deg, #1B48BB, #4D77FF)",
     Contractor: "linear-gradient(180deg, #1B48BB, #4D77FF)",
     ContractorButton: "linear-gradient(180deg, #1B48BB, #4D77FF)",
-    Premium: "linear-gradient(180deg, #CA6C00, #FFAE51)",
-    PremiumButton: "linear-gradient(180deg, #CA6C00, #FFAE51)",
+    Customer: "linear-gradient(180deg, #CA6C00, #FFAE51)",
+    CustomerButton: "linear-gradient(180deg, #CA6C00, #FFAE51)",
   };
 
   const ActionButton = styled(({ packName, ...other }) => <Button {...other} />)(({ theme, packName }) => {
@@ -96,15 +96,15 @@ export default function Pricing(props) {
 
 // Conditional colors based on packName
     switch (packName) {
-      case 'Syndicate':
+      case 'Administrator':
         backgroundColorGradient = backgroundColor.SyndicateButton;
         hoverBackgroundGradient = backgroundColor.Syndicate;
         break;
-      case 'Contractor':
+      case 'Customer':
         backgroundColorGradient = backgroundColor.ContractorButton;
         hoverBackgroundGradient = backgroundColor.Contractor;
         break;
-      case 'Premium':
+      case 'Contractor':
         backgroundColorGradient = backgroundColor.PremiumButton;
         hoverBackgroundGradient = backgroundColor.Premium;
         break;

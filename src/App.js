@@ -17,8 +17,6 @@ import { ReactQueryDevtools } from '@tanstack/react-query-devtools'
 
 import Layout             from "@src/components/Layouts/layout";
 import LayoutUser         from "@src/components/Layouts/layoutUser";
-// import LayoutBusiness     from "@scenes/layoutBusiness";
-// import LayoutAdmin        from "@scenes/layoutAdmin";
 import Dashboard          from "@scenes/dashboard";
 import Login              from "@scenes/login";
 import Register           from "@scenes/register";
@@ -26,15 +24,6 @@ import Registering        from "@scenes/register/registering";
 import LandingPage        from "@scenes/landingPage";
 import Welcome            from "@scenes/welcome";
 import { ContextsProvider } from '@scenes/welcome/ContextsContext';
-
-
-// import Contracts          from "@scenes/contracts";
-// import Agreements         from "@scenes/agreements";
-// import Services           from "@scenes/services";
-
-// import Sites              from "@scenes/sites";
-// import Buildings          from "@scenes/buildings";
-// import Apartments         from "@scenes/apartments";
 
 import Scene              from "@components/Loadable/Index.scene";
 import NotFound           from "@components/notfound";
@@ -103,7 +92,7 @@ const App = () => {
                   </Route>
 
                   {/* Auth Routes for regular users  */}
-                  <Route path="/syndicate"    element={<ProtectedRoutes allowedRoles={['Syndicate']}> <LayoutUser /> </ProtectedRoutes>}>
+                  <Route path="/dashboard"    element={<ProtectedRoutes allowedRoles={['Syndicate']}> <LayoutUser /> </ProtectedRoutes>}>
                     <Route index              element={<Dashboard />} />
                     <Route path="*"           element={<NotFound />} />
                     <Route path="test"        element={<Test />} />
