@@ -106,6 +106,36 @@ const App = () => {
                     <Route path="reports"     element={<Scene scene={'reports'} title={'Reports Management'} />}/>
                   </Route>
 
+                  {/* Auth Routes for regular users  */}
+                  <Route path="/contractor"    element={<ProtectedRoutes allowedRoles={['Contractor']}> <LayoutUser /> </ProtectedRoutes>}>
+                    <Route index              element={<Dashboard />} />
+                    <Route path="*"           element={<NotFound />} />
+                    <Route path="test"        element={<Test />} />
+                    <Route path="dashboard"   element={<Dashboard />} />
+
+                    <Route path="contracts"   element={<Scene scene={'contracts'} title={'Contracts Management'} />}/>
+                    <Route path="agreements"  element={<Scene scene={'agreements'} title={'Agreements Management'} />}/>
+                    <Route path="services"    element={<Scene scene={'services'} title={'Services Management'} />}/>
+
+                    <Route path="staff"       element={<Scene scene={'staff'} title={'Staff Management'} />}/>
+                    <Route path="reports"     element={<Scene scene={'reports'} title={'Reports Management'} />}/>
+                  </Route>
+
+                  {/* Auth Routes for regular users  */}
+                  <Route path="/customer"    element={<ProtectedRoutes allowedRoles={['Customer']}> <LayoutUser /> </ProtectedRoutes>}>
+                    <Route index              element={<Dashboard />} />
+                    <Route path="*"           element={<NotFound />} />
+                    <Route path="test"        element={<Test />} />
+                    <Route path="dashboard"   element={<Dashboard />} />
+
+                    <Route path="contracts"   element={<Scene scene={'contracts'} title={'Contracts Management'} />}/>
+                    <Route path="agreements"  element={<Scene scene={'agreements'} title={'Agreements Management'} />}/>
+                    <Route path="services"    element={<Scene scene={'services'} title={'Services Management'} />}/>
+
+                    <Route path="staff"       element={<Scene scene={'staff'} title={'Staff Management'} />}/>
+                    <Route path="reports"     element={<Scene scene={'reports'} title={'Reports Management'} />}/>
+                  </Route>
+
                 </Routes>
 
 

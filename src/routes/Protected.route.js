@@ -3,26 +3,21 @@ import { Navigate, useLocation } from 'react-router-dom';
 
 const getDefaultPath = (packName, userStatus) => {
 
+  if(userStatus === "Pending"){
+    return '/registering'
+  }
+
   switch (packName) {
 
     case 'Administrator': 
-        let root = '/administrator/dashboard';
-
-        if(userStatus === "Pending"){
-            root = '/registering'
-        }
-        // else if(userStatus === "OnHold"){
-        //     root = '/syndicate/welcome'
-        // }
-
-        return root;
+        return '/administrator/dashboard';
     break;
 
-    case 'contractor': 
+    case 'Contractor': 
         return '/contractor/dashboard';
     break;
     
-    case 'customer': 
+    case 'Customer': 
         return '/customer/dashboard';
     break;
 
